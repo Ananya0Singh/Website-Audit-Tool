@@ -67,9 +67,9 @@ PagePulse is a lightweight web page auditing tool built with **Spring Boot** and
 
 ## 🌐 Live Demo
 
-**Frontend:** _Add your deployed Vercel URL here_
+**Frontend:** 
 
-**Backend API:** _Add your deployed Render URL here_
+**Backend API:** 
 
 ## 👩‍💻 Author
 
