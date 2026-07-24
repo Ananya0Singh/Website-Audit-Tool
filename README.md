@@ -37,7 +37,9 @@ PagePulse is a full-stack web application that analyzes publicly accessible webs
 
 ## Live Demo
 
-**Frontend:** https://website-audit-tool-eight-ebon.vercel.app/
+
+
+**Deployed project link:** https://website-audit-tool-eight-ebon.vercel.app/
 
 **Backend API:** https://website-audit-tool-1lql.onrender.com
 
@@ -155,7 +157,7 @@ GitHub: https://github.com/Ananya0Singh/Website-Audit-Tool
 
 ## Demo Video
 
-Loom: 
+Loom: https://www.loom.com/share/0438d4b263f74f7baefd84694924f065?t=7
 
 ## Author
 
